@@ -1,0 +1,389 @@
+.Heading{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+
+
+H1{
+    font-family: cursive;
+    font-weight:bolder;
+    font-size:50px;
+    margin-left: 30px;
+    color:rgb(0, 2, 104);
+    /*color:rgb(207, 176, 0);*/
+}
+
+
+.Whole{
+ 
+    background-color: rgb(100, 250, 125);
+    background-image: url("blueBackground.jpg");
+    background-size: 100% 100%;
+}
+
+.TheProduct{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.Slogan1{
+    font-size: 60px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    color:rgb(107, 0, 156);
+    font-family: Arial, Helvetica, sans-serif;      
+}
+.RUN{
+    font-size: 60px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    color:rgb(0, 2, 104);
+    font-family: Arial, Helvetica, sans-serif;      
+}
+.Slogan2{
+    font-size: 60px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    color:rgb(107, 0, 156);
+    /*color:rgb(0, 247, 255);*/
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+p{
+    color:rgb(107, 0, 156);
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Sticks{
+margin-top: 50px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+table-layout: fixed;
+gap:10px
+
+}
+
+.orderNow{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;  
+    margin-top: 100px;
+}
+
+.Line1{
+
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;  
+    color:rgb(0, 2, 104);
+
+}
+.Line2{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;  
+    color:rgb(0, 2, 104);
+}
+.Line3{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;  
+    color:rgb(0, 2, 104);
+    margin-top: 25px;
+}
+
+.Links{
+    display:flex;
+    justify-content: space-between;
+    gap:100px
+}
+
+A{
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    color:rgb(107, 0, 156); 
+    margin-top: 50px;
+
+}
+
+.Texts{
+    margin-left:300px;
+    margin-right:330px;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.fourpg{
+    /*margin-left:340px;
+    margin-right:680px;*/
+    margin-right: 10px;
+    color:rgb(107, 0, 156);
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.threepg{
+    /*margin-left:660px;
+    margin-right:350px;*/
+    margin-right: 50px;
+    color:rgb(107, 0, 156);
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.twopg{
+    /*
+    margin-left:1000px;
+    margin-right:25px;*/
+    margin-right: 50px;
+    color:rgb(107, 0, 156);
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 2, 104);
+
+}
+
+H2{
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(107, 0, 156);
+
+}
+
+.aboutUs{
+    color:rgb(0, 2, 104);
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-right: 200px;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+
+.friendStyle{
+    margin-top: 25px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.firstLink{
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.stickInLink1{
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.Subheading1{
+    display: flex;
+    margin-top: 20px;   
+    margin-left:20px;
+}
+.Subheading2{
+    display: flex; 
+    margin-top: 20px; 
+    margin-left:20px; 
+}
+.Subheading3{
+    display: flex; 
+    margin-top: 20px;
+    margin-left:20px;  
+}
+.Subheading4{
+    display: flex; 
+    margin-top: 20px;
+    margin-left:20px;  
+}
+.Subheading5{
+    display: flex; 
+    margin-top: 20px; 
+    margin-left:20px; 
+}
+.Subheading6{
+    display: flex;  
+    margin-top: 20px; 
+    margin-left:20px;
+}
+
+.Star{
+    margin-left: 20px;
+    
+}
+
+.lexi{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+    
+}
+.steve{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
+.gary{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104); 
+    margin-left:20px;
+    margin-right: 100px;
+}
+.sally{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
+.ava{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
+.natalie{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
+
+.Work{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+}
+
+.groceryBags{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.hKid{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.kidOne{
+    margin-right:10px ;
+}
+.kidTwo{
+    margin-right:10px ;
+}
+.kidText{
+    margin-top:75px;
+}
+
+.linkOne{
+    background-color: rgb(166, 185, 247);
+    background-image: url("background2.jpg");
+    background-size: 100% 100%;
+}
+.linkTwo{
+    background-color: rgb(166, 185, 247);
+    background-image: url("background2.jpg");
+    background-size: 100% 100%;
+}
+.linkThree{
+    background-color: rgb(166, 185, 247);
+    background-image: url("background2.jpg");
+    background-size: 100% 100%;
+}
+.linkFour{
+    background-color: rgb(166, 185, 247);
+    background-image: url("background2.jpg");
+    background-size: 100% 100%;
+}
+
+.stickInLink2{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.Q1{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
+.Q2{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
+.Q3{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
+.Q4{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
+.Q5{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
+.Q6{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
+.Q7{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
+.Q8{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(0, 2, 104);
+    margin-left:20px;
+    margin-right: 100px;
+}
